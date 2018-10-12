@@ -1,3 +1,7 @@
+---
+layout: default
+title: Exthereum
+---
 # News
 
 This project is experimental, and there is no stable release out yet. We welcome contributors!
