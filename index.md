@@ -2,6 +2,17 @@ Exthereum is an [Elixir](https://elixir-lang.org/)-based Ethereum client under [
 
 [The project is available on Github](https://github.com/exthereum/ethereum).
 
+# News
+
+This project is experimental, and there is no stable release out yet. We welcome contributors!
+
+# Downloads
+
+You can install the latest package with hex:
+`> hex install ethereum`
+
+More info on our [hex package](https://hex.pm/packages/ethereum) page.
+
 # Community
 
 You can contact the team on [Gitter](https://gitter.im/exthereum/exthereum).
