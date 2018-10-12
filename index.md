@@ -1,4 +1,4 @@
-Exthereum is an [Elixir](https://elixir-lang.org/)-based Ethereum client under [MIT license](https://github.com/exthereum/ethereum/blob/master/LICENSE.md). ![logo]({{ site.url }}/logo.png)
+Exthereum is an [Elixir](https://elixir-lang.org/)-based Ethereum client under [MIT license](https://github.com/exthereum/ethereum/blob/master/LICENSE.md). ![logo](./logo.png)
 
 [The project is available on Github](https://github.com/exthereum/ethereum).
 
