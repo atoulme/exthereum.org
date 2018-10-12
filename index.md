@@ -9,6 +9,7 @@ This project is experimental, and there is no stable release out yet. We welcome
 # Downloads
 
 You can install the latest package with hex:
+
 `> hex install ethereum`
 
 More info on our [hex package](https://hex.pm/packages/ethereum) page.
